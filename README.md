@@ -1,17 +1,17 @@
 ## Installation
 you install it with npm : 
 ```
-   npm i @sa/link-preview
+   npm i sa-link-previe
 ```
 ## Usage
 You can include it easly :
 ### ES6
 ```javascript
-	import linPreview from "@sa/link-preview";
+	import linPreview from "sa-link-preview";
 ```
 ### ES5
 ```javascript
-	var linkPreview = require("@sa/link-preview");
+	var linkPreview = require("sa-link-previe");
 ```
 ### Parameters
 #### url

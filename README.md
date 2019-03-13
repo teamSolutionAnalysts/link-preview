@@ -1,7 +1,7 @@
 ## Installation
 you install it with npm : 
 ```
-   npm i sa-link-previe
+   npm i sa-link-preview
 ```
 ## Usage
 You can include it easly :
@@ -11,7 +11,7 @@ You can include it easly :
 ```
 ### ES5
 ```javascript
-	var linkPreview = require("sa-link-previe");
+	var linkPreview = require("sa-link-preview");
 ```
 ### Parameters
 #### url
